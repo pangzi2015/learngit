@@ -1,3 +1,4 @@
 hi pangzi
 Git is a powerfull soft
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
